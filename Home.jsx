@@ -4,21 +4,11 @@ import { Link } from 'react-router-dom'
 export const Home = () => {
   return (
     <>
-{/* 
-<div className="nav">
-        <div className="headline"><h1 className="homeo">Homeo</h1>&ensp;<h1 className="drug">Drug</h1></div>
-   
-        <div className="content">
-            <a href="">Home</a>
-            <a href="">Book Appointment</a>
-            <a href="">Reviews</a>
-            <a href="">Speciality</a>
-            </div>
-    </div> */}
+
 
     <section>
 <div className="drpic">
-{/* <img  src="./images/IMG-20250408-WA0010.jpg" alt=""/> */}
+
 
 </div></section>
 
@@ -27,7 +17,7 @@ export const Home = () => {
 
     <div className="p1">
   
-        <img src="./images/drpic.png" alt=""/>
+        <img src="./src/assets/images/drpic.png" alt=""/>
         <h1>Dr. Sonika Singh</h1>
         </div>
         
@@ -40,7 +30,7 @@ export const Home = () => {
 
 <section className="part2">
 <div className="special">
-<div className="sp1"><img src="./images/anemia.jpg" alt=""/></div>
+<div className="sp1"><img src="./src/assets/images/anemia.jpg" alt=""/></div>
 <div className="sp2">
 <h1>ANEMIA</h1>
 <p>Anemia in homeopathy is viewed as a sign of imbalance in the body rather than just a deficiency. Treatment focuses on the individual’s overall physical and emotional state. Common remedies include Ferrum Phosphoricum for early-stage anemia, Ferrum Metallicum for fatigue and weakness, China for anemia after blood loss, and Calcarea Phosphorica for growing children. Natrum Muriaticum is used when emotional stress is linked to anemia. Remedies are selected based on the person’s unique symptoms, and homeopathy is best used as a supportive treatment alongside medical care in serious cases.</p>
@@ -55,14 +45,14 @@ export const Home = () => {
             <h1>VIRAL FEVER</h1> 
             <p>Viral fever refers to a group of viral infections that cause an increase in body temperature, typically accompanied by symptoms like body aches, chills, fatigue, sore throat, headache, and sometimes a runny nose or cough. It is caused by various viruses, such as the influenza virus, dengue virus, or even common cold viruses. The fever is the body’s natural response to fighting off the viral infection. The choice of remedy depends on the exact symptoms and overall condition of the patient. </p>
             </div>
-    <div className="sp1"><img src="./images/cold1.jpeg" alt=""/></div>
+    <div className="sp1"><img src="./src/assets/images/cold1.jpeg" alt=""/></div>
     </div>
 </section>
 
 
 <section className="part2">
     <div className="special">
-    <div className="sp1"><img src="./images/female.jpeg" alt=""/></div>
+    <div className="sp1"><img src="./src/assets/images/female.jpeg" alt=""/></div>
     <div className="sp2">
     <h1>FEMALE DISORDERS</h1>
     <p>Female disorders in homeopathy refer to a range of conditions affecting the female reproductive system, including menstrual irregularities, hormonal imbalances, PCOS, infertility, menopause-related symptoms, leucorrhea , and more. Homeopathy treats these issues holistically, addressing both physical symptoms and emotional well-being.Homeopathy focuses on the root cause, aiming to restore hormonal balance and emotional harmony. A detailed case history is key for selecting the right remedy.</p>
@@ -77,13 +67,13 @@ export const Home = () => {
                 <h1>MIGRAINE</h1> 
                 <p>Migraine is a recurring, often severe headache that may be accompanied by nausea, vomiting, and sensitivity to light, sound, or smells. It can be triggered by stress, hormonal changes, certain foods, or lack of sleep. In homeopathy, treatment focuses on the individual's specific symptoms and triggers. Remedies are chosen based on the nature and location of the pain, as well as associated symptoms like visual disturbances or emotional stress. For example, some migraines may feel like a throbbing or bursting sensation, worsen with sunlight, or be linked to emotional factors.</p>
                 </div>
-        <div className="sp1"><img src="./images/migraine.png" alt=""/></div>
+        <div className="sp1"><img src="./src/assets/images/migraine.png" alt=""/></div>
         </div>
     </section>
 
     <section className="part2">
         <div className="special">
-        <div className="sp1"><img src="./images/vitamin.jpg" alt=""/></div>
+        <div className="sp1"><img src="./src/assets/images/vitamin.jpg" alt=""/></div>
         <div className="sp2">
         <h1>VITAMINS DEFICIENCY</h1>
         <p>Vitamin deficiency diseases occur when the body lacks essential vitamins, leading to various health problems. Common examples include night blindness (vitamin A deficiency), scurvy (vitamin C deficiency), rickets (vitamin D deficiency), and anemia (vitamin B12 deficiency). These deficiencies can result in fatigue, weakness, and increased susceptibility to infections. </p>
@@ -98,7 +88,7 @@ export const Home = () => {
                     <h1>INFECTIOUS DISEASE</h1> 
                     <p>Infectious diseases are illnesses caused by pathogens like bacteria, viruses, fungi, or parasites, and can be transmitted from one person or animal to another. These diseases can range in severity, with some causing mild symptoms and others requiring hospitalization. Homeopathy claims to stimulate healing responses to diseases by administering substances that mimic the symptoms of those diseases in healthy people.</p>
                     </div>
-            <div className="sp1"><img src="./images/infection.png" alt=""/></div>
+            <div className="sp1"><img src="./src/assets/images/infection.png" alt=""/></div>
             </div>
         </section> 
 

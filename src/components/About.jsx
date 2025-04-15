@@ -13,7 +13,7 @@ export const About = () => {
 
     <div className="a1">
   
-        <img src="./images/drpic.png" alt=""/>
+        <img src="./src/assets/images/drpic.png" alt=""/>
         <h1>Dr. Sonika Singh</h1>
         </div>
         
