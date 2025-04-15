@@ -1,0 +1,118 @@
+@media only screen and (max-width: 750px){
+
+.drpic{
+    width: 100%;
+    height: 400px;
+}
+
+.part11{
+    display: flex;
+    flex-direction: column;
+}
+
+.p1{
+    width: 90%;
+}
+
+.part1 p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 85%;
+}
+
+.special{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.sp1{
+    width:90%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.sp2{
+    width:90%;
+    margin-top: 30px;
+    height: auto;
+}
+
+.part2{
+    height: auto;
+}
+
+/* -----------footer----------- */
+
+
+.section10{height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.s10{margin-top: 10%;
+    margin-bottom: 10%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content:space-evenly;
+    flex-direction: column;
+    text-align: center;
+}
+
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#help{
+    display: none;
+}
+
+footer{
+    height: 40px;
+    width: 40px;
+}
+
+
+.btn2{
+    display: block;
+}
+
+.content a{
+    display: none;
+}
+
+
+.appointment{
+    display: none;
+}
+.menu-bar.active{
+    display: block;
+}
+
+.menu-bar button{
+    display: block;
+}
+
+}
+    
+@media only screen and (max-width: 950px){
+
+    .part11{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .part1 p{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        width: 85%;
+    }
+
+}
