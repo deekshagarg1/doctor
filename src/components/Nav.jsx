@@ -36,10 +36,10 @@ function click(){
 
 <div className="input">Mobile: <input type="number" onChange={(e)=>setmob(e.target.value)} /></div>
 
-<div className="input">Age : <input type="number" onChange={(e)=>setage(e.target.value)} /></div>
+<div className="input111">Age : <input type="number" onChange={(e)=>setage(e.target.value)} /></div>
 
 
-<div className="input">Gender:
+<div className="input11">Gender:
 <input type="radio" name='gender' />Male
  <input type="radio" name='gender' />Female
  <input type="radio"  name='gender'/>Other</div>

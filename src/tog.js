@@ -1,12 +1,12 @@
 export const toggle1 =[
-    {
-      q: "What is homeopathy?",
-      a: "Homeopathy is a natural form of medicine that uses highly diluted substances to stimulate the body's self-healing response.",
-    },
-    {
-      q: "Is homeopathy safe?",
-      a: "Yes, homeopathy is generally considered safe when used under the guidance of a qualified practitioner. It has minimal side effects.",
-    },
+    // {
+    //   q: "What is homeopathy?", 
+    //   a: "Homeopathy is a natural form of medicine that uses highly diluted substances to stimulate the body's self-healing response.",
+    // },
+    // {
+    //   q: "Is homeopathy safe?",
+    //   a: "Yes, homeopathy is generally considered safe when used under the guidance of a qualified practitioner. It has minimal side effects.",
+    // },
     {
       q: "What conditions can a homeopathic doctor treat?",
       a: "Homeopathy can be used to treat a variety of acute and chronic conditions including allergies, migraines, skin issues, digestive disorders, and anxiety.",

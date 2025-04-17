@@ -506,17 +506,42 @@ position: relative;
   font-size: large;
 }
 
-.input1{ width: 70%;
+.input111{
+  width: 80%;
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+
+.input111 input{
+  width: 80%;
+  position: relative;
+  left: 7px;
+}
+
+.input1{ width: 60%;
   display: flex;
   /* border: 1px solid red; */
   align-items: center;
   justify-content: center;
   font-size: large;
   position: relative;
-  right: 25px;
+  right: 50px;
 
 }
 
+.input11{ width: 72%;
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  position: relative;
+  right: 20px;
+
+}
 input{
   width: 80%;
   height: 20px;
@@ -675,6 +700,11 @@ textarea{
   justify-content: space-between;
   font-size: large;
 }
+
+.inp1 input{
+  position: relative;
+  left: 18px;
+}
 .inp2{
   width: 70%;
   margin-top: 20px;
@@ -804,8 +834,10 @@ flex-direction: column;
 .togglea{
   width: 100%;
   margin-top: 10px;
+  /* border: 1px solid red; */
   display: flex;
-  justify-content: space-around;
+  gap: 15px;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -814,6 +846,10 @@ flex-direction: column;
   height: 30px;
   font-size: larger;
   outline: none;
+  position: relative;
+  /* position: fixed; */
+  right: 10px;
+/* z-index: -10000; */
   border: none;
   color: white;
   background-color: cadetblue;
